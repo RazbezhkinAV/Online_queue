@@ -1,0 +1,7 @@
+
+
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8ÄØÖÌá/
+j
+java:S1192+"MDefine a constant instead of duplicating this literal "ROLE_MANAGER" 4 times.(ıÀßÌ8ÆØÖÌá/
+i
+java:S1192*"LDefine a constant instead of duplicating this literal "ROLE_PERSON" 4 times.(Ö¬òĞ8ÅØÖÌá/
