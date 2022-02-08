@@ -16,7 +16,7 @@ public class TicketController {
 
     private final TicketService ticketService;
 
-    @GetMapping("/all")
+    @GetMapping
     public ResponseEntity<List<Ticket>> getAllTicket(){
         return ResponseEntity.ok().body(ticketService.getAll());
     }
